@@ -1,3 +1,5 @@
+#Data Science 
+
 The two files in this repository are Versions 1 and 2 of my class project.
 
 During this project we were given a choice of selecting any topic to further analyze and visualize. I decided to focus on something that truly matters to me and that was my home city of New York City. Whenever I roam the streets of New York City, I notice how everything is changing, whether it's the street lamps, new buildings, or new streets, and it makes me wonder what the City Agencies' budget looks like. It is important to me that the City is using its money wisely and that the money can be trusted with these agencies. Ultimately my Project focuses on how the City is spending its money.
